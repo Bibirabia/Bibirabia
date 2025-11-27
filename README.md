@@ -29,7 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibirabia&show_icons=true&locale=en" alt="bibirabia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibirabia&" alt="bibirabia" /></p>
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
 
