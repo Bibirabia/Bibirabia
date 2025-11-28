@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibirabia" alt="bibirabia" /></a> </p>
 
+<p align="left"> <a href="https://github-profile-trophy"  <img src="https://github.com/ryo-ma/github-profile-trophy .vercel.app/?username=bibirabia" alt="bibirabia" /></a> </p>
+
 - 🌱 I’m currently learning **Web & App Development**
 
 - 👯 I’m looking to collaborate on **Local Projects related to tech**
